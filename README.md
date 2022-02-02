@@ -24,4 +24,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=romanhvr&show_icons=true&theme=gradient">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?romanhvr=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romanhvr&langs_count=5)](https://github.com/anuraghazra/github-readme-stats">
