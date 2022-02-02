@@ -11,7 +11,16 @@
   
 
 ## My skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=for-the-badge&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=Redux)
+![Webpack](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=Webpack)
+![Git](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=Git)
+![Webpack](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=Webpack)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=romanhvr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
