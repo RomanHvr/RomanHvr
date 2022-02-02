@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on  OwnPet-projects
+- 🔭 I’m currently working on  Own Pet-projects
 - 🌱 I’m currently learning deeply React
 - 🤔 I’m looking for help with StackOverflow
 - 💬 Ask me about JavaScript or Reacr
