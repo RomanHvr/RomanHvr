@@ -17,7 +17,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-292929?style=for-the-badge&logo=Redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-292929?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/-Git-292929?style=for-the-badge&logo=Git)
-![Webpack](https://img.shields.io/badge/-Webpack-292929?style=for-the-badge&logo=Webpack)
+![Docker](https://img.shields.io/badge/-Docker-292929?style=for-the-badge&logo=Docker)
 
 
 
