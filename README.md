@@ -11,15 +11,13 @@
   
 
 ## My skills:
-![HTML](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=CSS)
-![JavaScript](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=TypeScript)
-![React](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=Redux)
-![Webpack](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=Webpack)
-![Git](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=Git)
-![Webpack](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=Webpack)
+![JavaScript](https://img.shields.io/badge/-292929?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/--292929?style=for-the-badge&logo=TypeScript)
+![React](https://img.shields.io/badge/-292929?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-292929?style=for-the-badge&logo=Redux)
+![Webpack](https://img.shields.io/badge/-292929?style=for-the-badge&logo=Webpack)
+![Git](https://img.shields.io/badge/-292929?style=for-the-badge&logo=Git)
+![Webpack](https://img.shields.io/badge/-292929?style=for-the-badge&logo=Webpack)
 
 
 
