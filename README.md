@@ -11,7 +11,7 @@
   
 
 ## My skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DC4E?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=for-the-badge&logo=JavaScript)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=romanhvr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
